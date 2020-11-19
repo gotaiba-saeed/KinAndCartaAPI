@@ -27,7 +27,8 @@ namespace KinAndCarta.API.Controllers
         /// SearchContactByEmailOrPhone
     /// POST
     /// PUT
-    /// DELETE
+    /// DELETE new
+    /// DELETE new
     /// </summary>
     [RoutePrefix("api/contact")]
     public class ContactController : ApiController
