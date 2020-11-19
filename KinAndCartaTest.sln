@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinAndCarta.API", "KinAndCarta.API\KinAndCarta.API.csproj", "{3734852A-1A08-41C9-B343-54CABCE7A72D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinAndCarta.API.Tests", "KinAndCarta.API.Tests\KinAndCarta.API.Tests.csproj", "{42811704-AC57-4BE2-B0A8-28CDF02A52DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3734852A-1A08-41C9-B343-54CABCE7A72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3734852A-1A08-41C9-B343-54CABCE7A72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3734852A-1A08-41C9-B343-54CABCE7A72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3734852A-1A08-41C9-B343-54CABCE7A72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42811704-AC57-4BE2-B0A8-28CDF02A52DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42811704-AC57-4BE2-B0A8-28CDF02A52DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42811704-AC57-4BE2-B0A8-28CDF02A52DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42811704-AC57-4BE2-B0A8-28CDF02A52DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE522E1-2260-4863-94FD-5F65640F604A}
+	EndGlobalSection
+EndGlobal
